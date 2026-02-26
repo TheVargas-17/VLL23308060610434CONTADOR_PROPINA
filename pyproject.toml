@@ -1,0 +1,9 @@
+[project]
+name = "vll23308060610434miappflet"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flet>=0.81.0",
+]
